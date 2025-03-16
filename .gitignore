@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+.venv/
+.idea/
+*.mat
+*.png
+*ex8.py
+*Anomaly_detection_Usage_Example.py
+*poetry.lock
+*pyproject.toml
+*.txt
+__pycache__/
+
+!/Anomaly_detection_util.py
